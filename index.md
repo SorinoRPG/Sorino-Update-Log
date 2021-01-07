@@ -23,7 +23,7 @@
     - Fixed 200,000 coin gamble limit
 
 
-  ### New features
+  ## New features
   
     - Fight commands now work without the prefix
     
@@ -32,7 +32,7 @@
     - You can now set the channel in which you want to see rank up messages with .Q#Channel
 
 
-  ### New Sorino
+  ## New Sorino
   
     - Mantra: Rage type
     
@@ -41,7 +41,7 @@
     - Mountitude: Element type
 
 
-  ### Discounts -- AVAILABLE FOR 1 WEEK ONLY
+  ## Discounts -- AVAILABLE FOR 1 WEEK ONLY
   
     - Premium Wrap now 30,000 coins
     
