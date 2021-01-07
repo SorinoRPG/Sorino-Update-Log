@@ -1,3 +1,4 @@
+# Janurary 8 2021  
   ### General game improvements
     - Health/Energy display fixed
     - More coins awarded for searching and fighting
