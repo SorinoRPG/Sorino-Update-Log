@@ -1,3 +1,40 @@
+# February 18 2021 - Official release of v0.2
+
+  General game improvements
+  
+     - Smaller embed messages
+     - Smaller images
+     - Spring Boot webserver 
+     - Commands like s! now work
+     - Lower-case commands now work
+ 
+  New Features
+    
+    - Update command
+    - Vote command
+    - Vote rewards (7,000 coins)
+    - The bot will change it's nickname according to the set prefix
+    - The bot changes its description
+    - More data backups to prevent data loss
+    - Heists (This will be silently added March 1st)
+    - Info command (This will be also silently added March 1st)
+ 
+ New Sorino/Street Protectors
+ 
+    - Lightrino
+    - Xerxes
+    - Pewtini
+    - Techotia
+    - Xerxes
+
+ DISCOUNTS: NONE!
+
+______________________________________________________________________________________________________
+
+# January 27 2021 - Release of NPC fighting
+
+______________________________________________________________________________________________________
+
 # January 8 2021
 
 
@@ -16,8 +53,6 @@
     - Slightly easier to find Sorino
     
     - Cooldown no longer replaces, but has been increased to 4 seconds, the gambling cooldown is now 5 seconds
-    
-    - No more duplicates in Wraps
     
     - Fixed 200,000 coin gamble limit
 
@@ -40,11 +75,13 @@
     - Mountitude: Element type
 
 
-  Discounts -- AVAILABLE FOR 1 WEEK ONLY
+  Discounts 
   
     - Premium Wrap now 30,000 coins
     
     - Champions Wrap now 75,000 coins 
+
+______________________________________________________________________________________________________
 
 # January 1 2021
 SorinoRPG release day
