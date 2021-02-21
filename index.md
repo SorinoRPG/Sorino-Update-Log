@@ -11,6 +11,7 @@
   New Features
     
     - Update command
+    - Account saving
     - Vote command
     - Vote rewards (7,000 coins)
     - The bot will change it's nickname according to the set prefix
